@@ -1,0 +1,5 @@
+# Core graphics and game engine
+pygame>=2.0.0
+
+# Optional: If you want to specify minimum Python version
+# python_requires>=3.7
